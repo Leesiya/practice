@@ -22,6 +22,20 @@ a="welcome to azure family"
 b=a.upper()
 print(b)
 
+
+
 a="welcome to azure family"
 s=a[:10:3]
 print(s)
+
+str="welcome to my site"
+list=str.split()
+print(list)
+
+
+str="hello world"
+sub="hello"
+print(str.find(sub))
+
+str="sarveen"
+print(str.capitalize())
